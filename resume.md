@@ -26,4 +26,5 @@ Managed multiple asynchronous teams in the development, maintenance, and release
 
 ### UC San Diego
 
-Major: Computer Science
+Major: Computer Science specialization in machine learning
+
